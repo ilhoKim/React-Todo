@@ -1,4 +1,7 @@
 import React from 'react';
+import Todo from './Todo';
+import TodoList from './TodoList';
+
 
 const App = () => (
   <div>
